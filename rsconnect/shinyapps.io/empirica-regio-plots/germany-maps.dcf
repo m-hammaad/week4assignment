@@ -1,0 +1,13 @@
+name: germany-maps
+title: germany-maps
+username:
+account: empirica-regio-plots
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4071461
+bundleId: 4551682
+url: https://empirica-regio-plots.shinyapps.io/germany-maps/
+when: 1620061302.91667
+lastSyncTime: 1620061302.91667
+asMultiple: FALSE
+asStatic: FALSE
